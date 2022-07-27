@@ -1,0 +1,10 @@
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\bin\Debug\FlappyBird Game.exe.config
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\bin\Debug\FlappyBird Game.exe
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\bin\Debug\FlappyBird Game.pdb
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird Game.csproj.AssemblyReference.cache
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird_Game.Form1.resources
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird_Game.Properties.Resources.resources
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird Game.csproj.GenerateResource.cache
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird Game.csproj.CoreCompileInputs.cache
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird Game.exe
+C:\Users\Worvi\source\repos\FlappyBird Game\FlappyBird Game\obj\Debug\FlappyBird Game.pdb
